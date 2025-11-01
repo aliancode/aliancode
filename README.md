@@ -25,8 +25,7 @@ Passionate about advancing AI for education, fairness, and personalized learning
    - Introduces a **multi-objective reinforcement learning framework** that balances mastery, engagement, and equity in adaptive learning.  
    - Bridges AI and educational psychology for fair, personalized learning experiences.  
 
-### GitHub Projects
-- [AI Text Classifier](https://github.com/aliancode/AI-Text-Classifier) – ML model for classifying English text  
+### GitHub Projects 
 
 ---
 
